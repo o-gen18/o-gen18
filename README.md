@@ -16,6 +16,11 @@
 ![Spring](https://img.shields.io/badge/Spring-%3E%3D5-green)
 ![Maven](https://img.shields.io/badge/Maven-3-yellow)
 ![TravisCI](https://img.shields.io/badge/Travis-CI-brightgreen)
+
+##### <b>Statistics:</b>
+![Github stats](https://github-readme-stats.vercel.app/api?username=o-gen18&hide=stars,prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-gen18&layout=compact)](https://github.com/o-gen18/github-readme-stats)
 <!--
 **o-gen18/o-gen18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
