@@ -11,7 +11,7 @@
 
 ##### <b>Technologies I work with:</b>
 ![Java](https://img.shields.io/badge/java-%3E%3D8-red)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D9-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12-blue)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D5-lightgrey)
 ![Spring](https://img.shields.io/badge/Spring-%3E%3D5-green)
 ![Maven](https://img.shields.io/badge/Maven-3-yellow)
