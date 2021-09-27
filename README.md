@@ -2,10 +2,10 @@
 ### My name is Oleg.
 
 ##### Here are some of my projects:
-- [Sales of cars](https://github.com/o-gen18/job4j_cars)
+- [Sales of cars](https://github.com/o-gen18/job4j_cars) 👉 [Try on Heroku](https://calm-journey-71678.herokuapp.com)
 - [To-do list](https://github.com/o-gen18/job4j_todo)
 - [Car accident registry](https://github.com/o-gen18/job4j_car_accident)
-- [Forum](https://github.com/o-gen18/job4j_forum)
+- [Forum](https://github.com/o-gen18/job4j_forum) 👉 [Try on Heroku](https://dry-plains-15881.herokuapp.com)
 - [Tracker](https://github.com/o-gen18/job4j_tracker)
 - [Java vacancies grabber](https://github.com/o-gen18/job4j_grabber)
 
